@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2006c7a2843279e4598781ed39185dd0, type: 3}
+  m_Name: EosApiKey
+  m_EditorClassIdentifier: 
+  epicProductName: Prison Cube Evolved
+  epicProductVersion: 1.0
+  epicProductId: b6af896e6f014842bdfc770b2044535f
+  epicSandboxId: 497df77d8f114d7ebc023c9d447d66e1
+  epicDeploymentId: fbc6288063344532987274dd302fa119
+  epicClientId: xyza7891uyxRL5NaFei5al4lBDjJSoCE
+  epicClientSecret: LebkEXkmjRFN014oMkXqF3n73NkzmNXaKJgThQFrUGA
